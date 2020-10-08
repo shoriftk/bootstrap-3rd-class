@@ -1,1 +1,1 @@
-# bootstrap-3rd-class
+https://shoriftk.github.io/bootstrap-3rd-class/. 
