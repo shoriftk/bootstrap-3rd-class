@@ -1,0 +1,21 @@
+.mycol{
+	height: 50px;
+	background-color: green;
+	margin-bottom: 10px;
+	text-align: center;
+	color: white;
+}
+.myside{
+	background-color: yellow;
+}
+
+.footer{
+	text-align: center;
+	height: 50px;
+	color: white;
+	text-transform: uppercase;
+}
+.extracol{
+	color: black;
+	text-align: center;
+}
